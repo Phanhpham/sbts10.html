@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin:0;
+}
+.bai4{
+    background-color: grey;
+    width:250px;
+    height:100vh;
+}
+li{
+    list-style: none;
+}
+body{
+    color:white;
+    gap:10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.a{
+    display: flex;
+    gap:10px;
+    padding-top: 10px;
+    align-items: center;
+}
+.a:hover{
+    background-color: red;
+}
